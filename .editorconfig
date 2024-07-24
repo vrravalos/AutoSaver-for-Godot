@@ -1,0 +1,23 @@
+#### EditorConfig ####
+# EditorConfig: https://EditorConfig.org
+# EditorConfig for VS2022: https://learn.microsoft.com/en-us/visualstudio/ide/create-portable-custom-editor-options?view=vs-2022
+
+# Top-most EditorConfig file:
+root = true
+
+#### Core EditorConfig Options ####
+
+# All files (including C# files):
+[*]
+
+# Indentation and spacing
+indent_size = 4
+indent_style = space
+tab_width = 4
+
+# Charset and new line preferences
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+max_line_length = 120
