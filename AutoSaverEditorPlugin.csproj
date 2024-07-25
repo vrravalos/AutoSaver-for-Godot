@@ -8,5 +8,6 @@
   <ItemGroup>
     <None Include="addons\autosaver_editor\plugin.cfg" />
     <None Include="addons\autosaver_editor\settings.ini" />
+    <None Include="README.md" />
   </ItemGroup>
 </Project>

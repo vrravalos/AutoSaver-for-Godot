@@ -2,6 +2,8 @@
 
 AutoSaver is a peace-of-mind plugin for Godot 4 that enables a toggle to automatically save the currently open scenes and files based on a timer schedule (default is 60 seconds) and/or when the application loses focus. The plugin has some optional configuration to customize the experience.
 
+[![Godot Library Asset](https://img.shields.io/badge/Godot_Asset_Library-AutoSaver-blue?logo=godot-engine&logoColor=white)](https://godotengine.org/asset-library/asset/3170)
+[![Latest Release](https://img.shields.io/badge/Release_Version-0.1.0-blue?logo=github)](https://github.com/vrravalos/AutoSaver-for-Godot/releases)
 
 ![AutoSaver Toggle for Godot Editor by Victor R.R. Avalos](images/brand_autosaver_white_1024px.png)
 
